@@ -45,7 +45,7 @@ Passionné de programmation et d'informatique en général. Je fais tout mon pos
 
 ## N'hésitez pas à me contacter pour échanger autour d'une opportunité professionnelle.
 
-- **LinkedIn :** [linkedin.com/in/votre-profil](https://www.linkedin.com/in/mael-lenaerts/)
+- **LinkedIn :** [Mael Lenaerts](https://www.linkedin.com/in/mael-lenaerts/)
 - **Email :** [lenaertsmaelbrice@gmail.com](lenaertsmaelbrice@gmail.com)
 
 
