@@ -31,7 +31,6 @@ Passionné de programmation et d'informatique en général. Je fais tout mon pos
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godotengine&logoColor=white)
-- Azure DevOps, SQL / bases de données relationnelles
 
 ---
 
