@@ -1,4 +1,4 @@
-# Salut, moi c'est Maël ! 👋
+# Salut, c'est moi Maël ! 👉👉
 
 ### Développeur .NET en formation chez Technifutur
 
@@ -37,8 +37,8 @@ Passionné de programmation et d'informatique en général. Je fais tout mon pos
 ## Ce sur quoi je travaille actuellement
 
 - 📚 Consolidation de mes connaissances en Clean Architecture & APIs RESTful.
-- ⚙️ Projets d'entraînement en C#.
-- 🎮 Exploration de la logique de jeu et scripts 2D (Godot / C#).
+- ⚙️ Exercices d'entraînement en C# sur la plateforme **Exercicsm**.
+- 🎮 Petit jeux DungeonCrawler retro (Godot / C#).
 
 ---
 
