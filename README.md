@@ -38,7 +38,7 @@ Passionné de programmation et d'informatique en général. Je fais tout mon pos
 
 - 📚 Consolidation de mes connaissances en Clean Architecture & APIs RESTful.
 - ⚙️ Exercices d'entraînement en C# sur la plateforme **Exercicsm**.
-- 🎮 Petit jeux DungeonCrawler retro (Godot / C#).
+- 🎮 Petit jeux (Godot / C#).
 
 ---
 
